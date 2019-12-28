@@ -1,0 +1,17 @@
+{
+  "name": "createfilelf",
+  "version": "1.0.0",
+  "description": "仿create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "模仿"
+  },
+  "bin": {
+    "create-lf-app": "index.js"
+  },
+  "keywords": [
+    "仿create-react-app"
+  ],
+  "author": "Leaphy",
+  "license": "ISC"
+}
